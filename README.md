@@ -1,6 +1,6 @@
 # SunBEAM-Robot-2
 my remixed version of https://makezine.com/projects/sunbeam-seeker-bot/ .
-The main logic of the Sunbeam Seeker Bot is to detect the direction with the most infrared light (sunlight) and move toward it. 
+The main logic of the SunBEAM is to detect the direction with the most infrared light (sunlight) and move toward it. 
 ![Cover IMG](https://github.com/user-attachments/assets/6e6c174b-a5ef-41d8-8178-52fbd0dbf32b)
 Key Upgrades in this version:
 
