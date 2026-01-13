@@ -1,7 +1,7 @@
 # SunBEAM-Robot-2
 My remixed version of https://makezine.com/projects/sunbeam-seeker-bot/ . [Project Date: 2023]
 The main logic of the SunBEAM is to detect the direction with the most infrared light (sunlight) and move toward it. 
-![Cover IMG](https://github.com/user-attachments/assets/6e6c174b-a5ef-41d8-8178-52fbd0dbf32b)
+<img width="1031" height="1010" alt="Screenshot 2026-01-13 001730" src="https://github.com/user-attachments/assets/ec5bf861-82fc-46ca-aae1-5a5e4c7f55a8" />
 Key Upgrades in this version:
 
 - custom built pcb
